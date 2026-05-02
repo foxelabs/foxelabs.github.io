@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: "Foxe Labs Docs"
-  text: "Official documentation for Foxe Labs"
-  tagline: My great project tagline
+  name: "Foxe Labs"
+  text: "Documentation"
+  tagline: Open-source software development, algorithmic trading systems, and custom Expert Advisors (EAs).
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Get Started
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Get Support
       link: /api-examples
 
 features:
